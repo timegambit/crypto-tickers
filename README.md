@@ -1,10 +1,10 @@
-# ethereum-ticker
+# crypto-tickers
 
-A status bar Ethereum ticker for OS X.
+A status bar cypto ticker for OS X.
 
 # Development
 
-ethereum-ticker was written using Python 3.9.0. You can run it with:
+crypto-tickers was written using Python 3.9.0. You can run it with:
 
 ```
 pip3 install -r requirements.txt
