@@ -5,7 +5,7 @@ from json import loads
 import requests
 
 class EthereumTicker(rumps.App):
-    ICON = "eth.ico"
+    ICON = "./static/eth.ico"
     UPDATE_FREQUENCY = 60
     
     #TODO: Use endpoint that offers more currencies
